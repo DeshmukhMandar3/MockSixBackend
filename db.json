@@ -1,4 +1,25 @@
 {
   "users": [],
-  "recipe": []
+  "recipe": [
+    {
+      "username": "chunnu",
+      "title": "vada paav",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
+      "description": "dfghfghfdgh",
+      "category": "Starter",
+      "ingridients": ["potato", "bread", "oil"],
+      "instructions": "asdfsadf",
+      "id": 3
+    },
+    {
+      "username": "mandar",
+      "title": "chicken curry",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
+      "description": "asdfasdfsa",
+      "category": "Main Course",
+      "ingridients": ["chicken", " oil", " spices"],
+      "instructions": "asdfgfdsgdfg",
+      "id": 4
+    }
+  ]
 }
