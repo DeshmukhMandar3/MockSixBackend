@@ -1,107 +1,105 @@
 {
   "users": [],
   "recipe": [
-    [
-      {
-        "username": "chunnu",
-        "title": "vada paav",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
-        "description": "dfghfghfdgh",
-        "category": "Starter",
-        "ingridients": ["potato", "bread", "oil"],
-        "instructions": "asdfsadf",
-        "id": 3
-      },
-      {
-        "username": "mandar",
-        "title": "chicken curry",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
-        "description": "asdfasdfsa",
-        "category": "Main Course",
-        "ingridients": ["chicken", " oil", " spices"],
-        "instructions": "asdfgfdsgdfg",
-        "id": 4
-      },
-      {
-        "username": "mandar",
-        "title": "ramen",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
-        "description": "fasdfsadf",
-        "category": "Starter",
-        "ingridients": ["water", "noodles"],
-        "instructions": "asdfasdf",
-        "id": 5
-      },
-      {
-        "username": "mandar",
-        "title": "chalu",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
-        "description": "asdfasdf",
-        "category": "Main Course",
-        "ingridients": ["asdfasdf", "asdfsdaf"],
-        "instructions": "asdfsadf",
-        "id": 6
-      },
-      {
-        "username": "mandar",
-        "title": "asdfasdf",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
-        "description": "asdfsdaf",
-        "category": "Dessert",
-        "ingridients": ["asdfdsf", "asdfasf"],
-        "instructions": "asdfsadf",
-        "id": 7
-      },
-      {
-        "username": "mandar",
-        "title": "ghjghjh",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
-        "description": "fghjgj",
-        "category": "Main Course",
-        "ingridients": ["fyuij", "asjdkf", "aweufr"],
-        "instructions": "asdfasdf",
-        "id": 8
-      },
-      {
-        "username": "mandar",
-        "title": "momo",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
-        "description": "asdfdsf",
-        "category": "Starter",
-        "ingridients": ["asdfsdaf"],
-        "instructions": "asdfsdaf",
-        "id": 10
-      },
-      {
-        "username": "mandar",
-        "title": "masala papad",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
-        "description": "asdfasdf",
-        "category": "Starter",
-        "ingridients": ["papad", "masala"],
-        "instructions": "asdfsadf",
-        "id": 11
-      },
-      {
-        "username": "mandar",
-        "title": "soup",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
-        "description": "asdf",
-        "category": "Starter",
-        "ingridients": ["water", "masala"],
-        "instructions": "asdfsdf",
-        "id": 12
-      },
-      {
-        "username": "mandar",
-        "title": "Food",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
-        "description": "asdfsadf",
-        "category": "Starter",
-        "ingridients": ["asdfasdf"],
-        "instructions": "asdfsad",
-        "id": 13
-      }
-    ]
+    {
+      "username": "chunnu",
+      "title": "vada paav",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
+      "description": "dfghfghfdgh",
+      "category": "Starter",
+      "ingridients": ["potato", "bread", "oil"],
+      "instructions": "asdfsadf",
+      "id": 3
+    },
+    {
+      "username": "mandar",
+      "title": "chicken curry",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
+      "description": "asdfasdfsa",
+      "category": "Main Course",
+      "ingridients": ["chicken", " oil", " spices"],
+      "instructions": "asdfgfdsgdfg",
+      "id": 4
+    },
+    {
+      "username": "mandar",
+      "title": "ramen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
+      "description": "fasdfsadf",
+      "category": "Starter",
+      "ingridients": ["water", "noodles"],
+      "instructions": "asdfasdf",
+      "id": 5
+    },
+    {
+      "username": "mandar",
+      "title": "chalu",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
+      "description": "asdfasdf",
+      "category": "Main Course",
+      "ingridients": ["asdfasdf", "asdfsdaf"],
+      "instructions": "asdfsadf",
+      "id": 6
+    },
+    {
+      "username": "mandar",
+      "title": "asdfasdf",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
+      "description": "asdfsdaf",
+      "category": "Dessert",
+      "ingridients": ["asdfdsf", "asdfasf"],
+      "instructions": "asdfsadf",
+      "id": 7
+    },
+    {
+      "username": "mandar",
+      "title": "ghjghjh",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
+      "description": "fghjgj",
+      "category": "Main Course",
+      "ingridients": ["fyuij", "asjdkf", "aweufr"],
+      "instructions": "asdfasdf",
+      "id": 8
+    },
+    {
+      "username": "mandar",
+      "title": "momo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
+      "description": "asdfdsf",
+      "category": "Starter",
+      "ingridients": ["asdfsdaf"],
+      "instructions": "asdfsdaf",
+      "id": 10
+    },
+    {
+      "username": "mandar",
+      "title": "masala papad",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
+      "description": "asdfasdf",
+      "category": "Starter",
+      "ingridients": ["papad", "masala"],
+      "instructions": "asdfsadf",
+      "id": 11
+    },
+    {
+      "username": "mandar",
+      "title": "soup",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
+      "description": "asdf",
+      "category": "Starter",
+      "ingridients": ["water", "masala"],
+      "instructions": "asdfsdf",
+      "id": 12
+    },
+    {
+      "username": "mandar",
+      "title": "Food",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzb7GBifH0vjhtGs5P1BTnEdfdQw396wrwA&usqp=CAU",
+      "description": "asdfsadf",
+      "category": "Starter",
+      "ingridients": ["asdfasdf"],
+      "instructions": "asdfsad",
+      "id": 13
+    }
   ]
 }
